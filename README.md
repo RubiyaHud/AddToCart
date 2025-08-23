@@ -34,3 +34,5 @@
 
 <img width="764" height="242" alt="image" src="https://github.com/user-attachments/assets/d3eddf6c-dc20-4b93-a146-37b8f4c08b05" />
 
+## Note:
+<img width="811" height="498" alt="image" src="https://github.com/user-attachments/assets/8df1efa6-591b-4dea-a764-16eaf848d461" />
